@@ -2,7 +2,7 @@
 
 **Press the button below to open the notebook:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NMJFN3MQg9cYQAk9-WKNYfK6vQhwkCrp?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_URL_HERE)
 
 ---
 
